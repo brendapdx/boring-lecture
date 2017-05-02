@@ -1,0 +1,30 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+
+
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 30px;
+}
+.important {
+  color: red;
+}
+p.unreadable {
+  background-color: rgb(153, 255, 255);
+  color: pink;
+  font-weight: bold;
+}
